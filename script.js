@@ -37,7 +37,7 @@ function flashRainbowColors(callback) {
         if (callback) {
             callback();
         }
-    }, 2000); // Flash colors for 2 seconds
+    }, 5000); // Flash colors for 2 seconds
 }
 
 // Function to display the cat.gif initially
